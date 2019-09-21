@@ -2,5 +2,5 @@
     <string name="app_name">Test TabLayout (ViewPager)</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="home_fragment">Hello home fragment</string>
+    <string name="home_fragment">Hello home fragment\nUsing same fragment over and over again as too lazy.\nOtherwise create separate frament for each tab</string>
 </resources>
