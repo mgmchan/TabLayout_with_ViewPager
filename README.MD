@@ -1,0 +1,1 @@
+This project intends to simplify understanding of making use of TabLayout and ViewPager in order to have the sliding tab effect in Android.
