@@ -25,6 +25,14 @@ public class MyAdapter extends FragmentPagerAdapter {
 				return new HomeFragment();
 			case 2:
 				return new HomeFragment();
+			case 3:
+				return new HomeFragment();
+			case 4:
+				return new HomeFragment();
+			case 5:
+				return new HomeFragment();
+			case 6:
+				return new HomeFragment();
 		}
 		return null;
 	}
